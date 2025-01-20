@@ -66,3 +66,16 @@ To install and use the MetaMask Windows App, ensure that your system meets the f
 1. After the installation completes, click Finish to close the installer.
 2. Locate the MetaMask Windows App icon on your desktop or in the Start menu.
 3. Double-click the icon to launch the app.
+
+**Step 4: Import Your Wallet**
+Since this app does not support account creation, you must import an existing MetaMask account. Use one of the following methods:
+1. Private Key:
+   - Retrieve your private key from your MetaMask account.
+   - Follow this official guide to locate your private key: https://metamask.io/support/private-key.
+2. Secret Recovery Phrase:
+   - Use your Secret Recovery Phrase (12, 15, 18, 21, or 24 words).
+   - Learn how to access your Secret Recovery Phrase here: https://metamask.io/support/recovery-phrase.
+3. Upload JSON File:
+   - Export a JSON file from your MetaMask account.
+   - For detailed instructions, watch this tutorial: MetaMask JSON File Export Tutorial.
+Once you have imported your account, the app will guide you through setting up secure access.
