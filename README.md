@@ -78,3 +78,19 @@ Since this app does not support account creation, you must import an existing Me
 3. **Upload JSON File:**
    - Export a JSON file from your MetaMask account.
 Once you have imported your account, the app will guide you through setting up secure access.
+
+# Safety and Security Tips
+To ensure your experience with the MetaMask Windows App is secure, follow these guidelines:
+1. **Download Only From Trusted Sources:** Avoid downloading the app from unverified websites or links. Always check the official download page.
+2. **Keep Your Seed Phrase Private:**
+   - Your seed phrase is the master key to your wallet. Never share it with anyone.
+   - Avoid storing your seed phrase digitally (e.g., on your phone or computer) to minimize the risk of hacking.
+3. **Enable Antivirus Software:**
+   - Ensure your system is protected by reliable antivirus software.
+   - Run a virus scan on the installer before proceeding with the installation.
+4. **Stay Updated:**
+   - Regularly check for software updates to keep your app secure and compatible with the latest blockchain developments.
+   - Enable notifications for updates or check the official website periodically.
+5. **Beware of Phishing Scams:**
+   - Be cautious of emails, messages, or pop-ups that claim to be from MetaMask or this app’s developers.
+   - Always verify the sender and avoid clicking on suspicious links.
