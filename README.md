@@ -94,3 +94,6 @@ To ensure your experience with the MetaMask Windows App is secure, follow these 
 5. **Beware of Phishing Scams:**
    - Be cautious of emails, messages, or pop-ups that claim to be from MetaMask or this app’s developers.
    - Always verify the sender and avoid clicking on suspicious links.
+
+# Disclaimer
+This software is independently developed and is not affiliated with MetaMask or ConsenSys. The creators of this app are not responsible for any loss of funds or security breaches that may occur while using this software. Users should exercise caution and follow best practices for securing their wallets and private keys.
