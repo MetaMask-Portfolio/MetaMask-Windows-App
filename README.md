@@ -74,8 +74,7 @@ Since this app does not support account creation, you must import an existing Me
    - Follow this official guide to locate your [private key:](https://support.metamask.io/configure/accounts/how-to-export-an-accounts-private-key/)
 2. **Secret Recovery Phrase:**
    - Use your Secret Recovery Phrase (12, 15, 18, 21, or 24 words).
-   - Learn how to access your Secret Recovery Phrase here: https://support.metamask.io/configure/wallet/how-to-recover-your-secret-recovery-phrase/.
+   - Learn how to access your [Secret Recovery Phrase here:](https://support.metamask.io/configure/wallet/how-to-recover-your-secret-recovery-phrase/)
 3. **Upload JSON File:**
    - Export a JSON file from your MetaMask account.
-   - For detailed instructions, watch this tutorial: MetaMask JSON File Export Tutorial.
 Once you have imported your account, the app will guide you through setting up secure access.
