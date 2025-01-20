@@ -16,6 +16,7 @@ While this application has been developed with security and usability in mind, u
 The MetaMask Windows App comes with the following features:
 
 **1. Native MetaMask Integration**
+
     - Import your existing MetaMask account using one of three supported methods:
       - **Private Key.**
       - **Secret Recovery Phrase** (12, 15, 18, 21, or 24 words).
