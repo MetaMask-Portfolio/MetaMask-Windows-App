@@ -15,25 +15,24 @@ While this application has been developed with security and usability in mind, u
 
 The MetaMask Windows App comes with the following features:
 
-**1. Native MetaMask Integration**
-
+1. **Native MetaMask Integration**
     - Import your existing MetaMask account using one of three supported methods:
       - **Private Key.**
       - **Secret Recovery Phrase** (12, 15, 18, 21, or 24 words).
       - **Upload JSON File.**
     - Note: This app does not support account creation. You must have an existing MetaMask account to use this software.
 
-**2. Windows Desktop Optimization**
+2. Windows Desktop Optimization
     - Built specifically for Windows, offering a smooth user experience.
     - No need to rely on a web browser to access MetaMask features.
 
-**3. Full dApp Compatibility**
+3. Full dApp Compatibility
     - Interact with Ethereum-based decentralized applications directly from the app.
     - Access the same functionality as the web extension, but in a desktop environment.
 
-**4. Security Focus**
+4. Security Focus
     - Designed with security best practices to protect your private keys and wallet data.
     - Ensures that wallet credentials remain secure on your device.
 
-**5. User-Friendly Interface**
+5. User-Friendly Interface
     - Intuitive design, making it easy for both beginners and experienced users to manage their wallets.
