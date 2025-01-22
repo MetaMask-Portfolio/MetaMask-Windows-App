@@ -92,7 +92,7 @@ To ensure your experience with the MetaMask Windows App is secure, follow these 
    - Regularly check for software updates to keep your app secure and compatible with the latest blockchain developments.
    - Enable notifications for updates or check the official website periodically.
 5. **Beware of Phishing Scams:**
-   - Be cautious of emails, messages, or pop-ups that claim to be from MetaMask or this app’s developers.
+   - Be cautious of emails, messages, or pop-ups that claim to be this app’s developers.
    - Always verify the sender and avoid clicking on suspicious links.
 
 # Disclaimer
