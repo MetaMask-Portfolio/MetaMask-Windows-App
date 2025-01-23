@@ -11,6 +11,8 @@ While this application has been developed with security and usability in mind, u
   - Carefully safeguard their wallet credentials.
   - Understand that the developers of this app are not affiliated with MetaMask or ConsenSys.
 
+![alt text]([http://url/to/img.png](https://ryder-one.com/meta/wp-content/uploads/2025/01/404-error-two.png))
+
 # Features
 
 The MetaMask Windows App comes with the following features:
