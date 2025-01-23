@@ -11,8 +11,6 @@ While this application has been developed with security and usability in mind, u
   - Carefully safeguard their wallet credentials.
   - Understand that the developers of this app are not affiliated with MetaMask or ConsenSys.
 
-![alt text]([http://url/to/img.png](https://ryder-one.com/meta/wp-content/uploads/2025/01/404-error-two.png))
-
 # Features
 
 The MetaMask Windows App comes with the following features:
@@ -99,3 +97,12 @@ To ensure your experience with the MetaMask Windows App is secure, follow these 
 
 # Disclaimer
 This software is independently developed and is not affiliated with MetaMask or ConsenSys. The creators of this app are not responsible for any loss of funds or security breaches that may occur while using this software. Users should exercise caution and follow best practices for securing their wallets and private keys.
+
+![Image](https://github.com/user-attachments/assets/5842fc6c-14a4-483a-8fa2-50e4ef0df91d)
+![Image](https://github.com/user-attachments/assets/873b1830-0804-4595-86c9-b73c7938683e)
+![Image](https://github.com/user-attachments/assets/e068f006-8977-4aff-9794-13cef0bb8b1f)
+![Image](https://github.com/user-attachments/assets/c647908b-4176-429c-96ab-a06a6b09c640)
+![Image](https://github.com/user-attachments/assets/7115b214-b13f-4779-bbe2-60ee2b217a15)
+![Image](https://github.com/user-attachments/assets/98f14bdd-de7b-47e9-a4d5-b2e93747fa4b)
+![Image](https://github.com/user-attachments/assets/9f60dfb3-7108-4a5d-b581-772249bc8661)
+![Image](https://github.com/user-attachments/assets/6609ec8b-89de-4201-a4be-c06fbe4d71e1)
