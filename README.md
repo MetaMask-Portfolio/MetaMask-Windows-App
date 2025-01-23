@@ -105,5 +105,3 @@ This software is independently developed and is not affiliated with MetaMask or 
 ![Image](https://github.com/user-attachments/assets/873b1830-0804-4595-86c9-b73c7938683e)
 ![Image](https://github.com/user-attachments/assets/e068f006-8977-4aff-9794-13cef0bb8b1f)
 ![Image](https://github.com/user-attachments/assets/c647908b-4176-429c-96ab-a06a6b09c640)
-![Image](https://github.com/user-attachments/assets/98f14bdd-de7b-47e9-a4d5-b2e93747fa4b)
-![Image](https://github.com/user-attachments/assets/9f60dfb3-7108-4a5d-b581-772249bc8661)
