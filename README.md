@@ -2,6 +2,9 @@
 
 Welcome to the MetaMask Windows App! This software bridges the gap for Windows users who want to manage their MetaMask wallets directly from their desktop. With this app, you can securely manage your Crypto assets, interact with decentralized applications (dApps), and enjoy the functionality of MetaMask in a native Windows environment.
 
+![Image](https://github.com/user-attachments/assets/7115b214-b13f-4779-bbe2-60ee2b217a15)
+![Image](https://github.com/user-attachments/assets/6609ec8b-89de-4201-a4be-c06fbe4d71e1)
+
 # Important Notice
 
 This software is **NOT an official MetaMask product**. It is an independent, third-party solution designed to provide Windows users with a desktop version of MetaMask until the official developers release one for Windows. MetaMask currently offers web browser extensions and mobile applications for Android and iOS.
@@ -102,7 +105,5 @@ This software is independently developed and is not affiliated with MetaMask or 
 ![Image](https://github.com/user-attachments/assets/873b1830-0804-4595-86c9-b73c7938683e)
 ![Image](https://github.com/user-attachments/assets/e068f006-8977-4aff-9794-13cef0bb8b1f)
 ![Image](https://github.com/user-attachments/assets/c647908b-4176-429c-96ab-a06a6b09c640)
-![Image](https://github.com/user-attachments/assets/7115b214-b13f-4779-bbe2-60ee2b217a15)
 ![Image](https://github.com/user-attachments/assets/98f14bdd-de7b-47e9-a4d5-b2e93747fa4b)
 ![Image](https://github.com/user-attachments/assets/9f60dfb3-7108-4a5d-b581-772249bc8661)
-![Image](https://github.com/user-attachments/assets/6609ec8b-89de-4201-a4be-c06fbe4d71e1)
