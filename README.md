@@ -1,4 +1,4 @@
-# MetaMask Windows App
+# How To Install MetaMask On Windows 10/11
 
 Welcome to the MetaMask Windows App! This software bridges the gap for Windows users who want to manage their MetaMask wallets directly from their desktop. With this app, you can securely manage your Crypto assets, interact with decentralized applications (dApps), and enjoy the functionality of MetaMask in a native Windows environment.
 
